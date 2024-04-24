@@ -1,0 +1,30 @@
+{
+  "name": "next_dashboard",
+  "version": "1.0.0",
+  "description": "DELETE ME! I am test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
+    "build": "next build",
+    "dev": "next dev",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "next": "^14.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.12.7",
+    "@types/react": "18.2.79",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.3",
+    "sass": "^1.75.0",
+    "typescript": "5.4.5"
+  }
+}
